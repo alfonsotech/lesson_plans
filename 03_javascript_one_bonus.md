@@ -1,9 +1,9 @@
 # Recursion
 
 ### What does it mean by iterative solution?
-
+It means a some sort of loop where you iterate through a set
 ### What does it mean by recursive solution?
-
+where you use a function within that function. where you call a function as a part of that function
 ### Factorial example
 
 ### Sigma example
